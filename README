@@ -1,0 +1,6 @@
+learnurcu
+
+
+Attempt to learn the implmentation of Userland RCU, starting from
+lock-free queue.
+
